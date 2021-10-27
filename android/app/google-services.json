@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "886036017237",
+    "firebase_url": "https://smartfarm-18483-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "smartfarm-18483",
+    "storage_bucket": "smartfarm-18483.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:886036017237:android:bf06b41ee0921537fd64dc",
+        "android_client_info": {
+          "package_name": "com.example.smart_agriculture_299"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "886036017237-h4sessj0pfqs3m572avuq4ncbk0i7bac.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqvozU4zFOm95pYbcQA71S0aJGLgFa7Ks"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "886036017237-h4sessj0pfqs3m572avuq4ncbk0i7bac.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
